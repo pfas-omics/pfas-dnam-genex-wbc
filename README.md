@@ -9,19 +9,7 @@ It includes:
 - **Gene expression** profiling associated with **PFAS**
 - Overlap analysis between **DNA methylation** and **gene expression**
 - Examine associations between PFAS exposure and **estimated immune cell proportions**, both to investigate alterations in circulating immune cells and to contextualize observed methylation changes
- 
-# PFAS – DNA Methylation and Gene Expression Analysis
 
-## Overview
-
-This project investigates associations between **serum PFAS concentrations** and **epigenome-wide DNA methylation** and **gene expression** among healthy women from the **Norwegian Women and Health Study (NOWAC)**. The analyses aim to:
-
-- Identify **CpG sites** associated with PFAS exposure.
-- Explore **gene expression patterns** related to PFAS-associated CpGs.
-- Assess **overlap between DNA methylation and gene expression**, including correlations between CpG methylation and gene expression.
-- Examine the influence of **immune cell proportions** (e.g., B cells, CD4T, NK) in these associations.
-
----
 
 ## Project Structure
 
