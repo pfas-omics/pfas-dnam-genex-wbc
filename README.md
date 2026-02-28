@@ -1,11 +1,9 @@
 # PFAS – DNA Methylation and Gene Expression Analysis
 
-Project Overview
+## Project Overview
+This project investigates the relationship between **PFAS exposure**, DNA methylation, and gene expression using linear models and enrichment analyses.
 
-This project investigates the associations between PFAS compounds and molecular outcomes in human samples. Specifically, it integrates:
-
-DNA Methylation Analysis (CpG sites)
-
-Gene Expression Analysis
-
-Overlap Analysis to identify genes showing both methylation and expression changes associated with PFAS exposure.
+It includes:
+- Analysis of CpG methylation changes associated with PFAS
+- Gene expression profiling linked to PFAS and immune cell types
+- Overlap analysis between methylation (DMPs) and expression (DEGs)
