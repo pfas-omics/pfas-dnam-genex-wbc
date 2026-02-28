@@ -1,5 +1,6 @@
 # PFAS – DNA Methylation and Gene Expression Analysis
 
+
 ## Project Overview
 This project investigates the relationship between **PFAS exposure, DNA methylation, and gene expression** using linear models and enrichment analyses.
 
