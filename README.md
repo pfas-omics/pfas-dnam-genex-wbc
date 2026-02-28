@@ -40,7 +40,7 @@ It includes:
      - `pfas_expression_results.rds` → All DEGs per PFAS.
      - `filtered_DEGs_all_PFAS.txt` → Filtered DEGs (p < 0.05) across all PFAS.
 
-4. **Overlapp between DNAm and gene expression analyses**
+4. **Overlap between DNAm and gene expression analyses**
    - Script: **`pfas_dnam_genex_overlap.R`**
    - Matches **DNAm and Gene expression results** to identify overlapping CpG–gene pairs.
    - Computes **Spearman correlations** between methylation and expression for overlapping pairs.
